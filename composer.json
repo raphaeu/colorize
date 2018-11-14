@@ -1,0 +1,17 @@
+{
+  "name": "raphaeu/colorize",
+  "description": "Colorir o conteudo do console linux",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Rafael Aguiar",
+      "email": "raphaeu.aguiar@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "raphaeu\\colorize\\": "src/"
+    }
+  }
+}
