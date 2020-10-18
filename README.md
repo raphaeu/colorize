@@ -80,12 +80,12 @@ echo Colorize::blue(true)." Cor do fundo azul.".Colorize::clear() ;
 Changelog
 ---------
 
-A lista de mudanças você pode encontrar na página [GitHub Releases](https://github.com/raphaeu/async/releases).
+A lista de mudanças você pode encontrar na página [GitHub Releases](https://github.com/raphaeu/colorize/releases).
 
 Soluções de problemas
 ---------------------
 
-Por favor, reporte os bugs para [GitHub Issue Tracker](https://github.com/raphaeu/async/issues).
+Por favor, reporte os bugs para [GitHub Issue Tracker](https://github.com/raphaeu/colorize/issues).
 
 Copyright
 ---------
