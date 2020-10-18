@@ -35,6 +35,16 @@ class Colorize
         return self::apply(null, null, '04');
     }
 
+    static public function italic()
+    {
+        return self::apply(null, null, '03');
+    }
+
+    static public function strikethrough()
+    {
+        return self::apply(null, null, '09');
+    }
+
     static public function blink()
     {
         return self::apply(null, null, '05');
