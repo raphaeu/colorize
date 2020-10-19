@@ -59,7 +59,7 @@ echo Colorize::blue(true)." Cor do fundo azul.".Colorize::clear() ;
 #### Métodos
 | método                 | descrição                        |
 |------------------------|--------------------------------- |
-| Colorize::white()      | Aplica a cor azul no texto       |
+| Colorize::white()      | Aplica a cor branca no texto     |
 | Colorize::ciano()      | Aplica a cor ciano no texto      |
 | Colorize::magenta()    | Aplica a cor magenda no texto    |
 | Colorize::blue()       | Aplica a cor azul no texto       |
